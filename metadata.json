@@ -1,0 +1,6 @@
+{
+  "name": "POSBON AI — Kiberxavfsizlik va Telegram Himoya Tizimi",
+  "description": "Sun'iy intellekt asosida ishlovchi fayl, rasm, video, hujjat va URL xavfsizlik tekshiruvchisi hamda Telegram (@POSBON_RO_BOT) avtomatik antivirus va anti-fishing himoyachisi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
