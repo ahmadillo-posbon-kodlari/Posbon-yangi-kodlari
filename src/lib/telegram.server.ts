@@ -6,7 +6,7 @@ import { analyzeSecurityTarget, AnalysisResult, TargetType } from "./ai/analyze.
 // ============================================================================
 // TELEGRAM BOT SOZLAMALari (Token yoki Username o'zgartirish uchun shu yerni tahrirlang):
 // ============================================================================
-const DEFAULT_BOT_TOKEN = "8917943761:AAGyg2ggC495rpbcpXIBp-win07vuD5nJ_Y";
+const DEFAULT_BOT_TOKEN = "8723251106:AAFkDPzXyK5Pz5X4kNi66PYayej2duZWabU";
 const DEFAULT_BOT_USERNAME = "PosbonXBot";
 const KNOWN_BOT_IDS = new Set<string>(["8917943761", "8723251106"]);
 
